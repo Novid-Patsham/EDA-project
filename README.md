@@ -11,4 +11,4 @@
 
 ### Bar plot compares the performance scores of all the algorithms
 
-Note: csv files are put into different folder here but need to be in same folder as ipynb files to run them.
+Note: csv files are put in compressed folder here and need to be in same folder as ipynb files to run them.
