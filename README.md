@@ -8,3 +8,7 @@
 2) KNN Regressor
 3) Linear Regression with regularization
 4) Decision tree 
+
+### Bar plot compares the performance scores of all the algorithms
+
+Note: csv files are put into different folder here but need to be in same folder as ipynb files to run them.
