@@ -1,6 +1,6 @@
 # EDA-project
 
-### EDA done n nyc taxi trip duration dataset from kaggle and ML models applied to predict trip duration given other variables. Data preprocessing and cleaning done based on EDA.
+### EDA done on nyc-taxi-trip-duration dataset from kaggle and ML models applied to predict trip duration given other variables. Data preprocessing and cleaning done based on EDA.
 
 ### Algorithms used :
 
